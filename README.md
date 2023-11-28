@@ -1,8 +1,11 @@
 # (김해시) 공공 와이파이존 재배치 및 신규 입지 분석
-https://www.notion.so/98ddeb753a0946dbac71bc4498ee4fc0
-팀원 : 김경민, 김윤아, 김현수, 박희영, 윤지혜
+[https://dacon.io/competitions/official/229255/overview/description](https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2307_003)
 
-기간 : 2022.11.07 ~ 2022.12.12
+https://www.notion.so/98ddeb753a0946dbac71bc4498ee4fc0
+
+팀원 : 엄태범, 윤지혜
+
+기간 : 2023.07.31 ~ 2023.09.15
 
 ### [배경]
 
